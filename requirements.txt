@@ -1,0 +1,5 @@
+audiostretchy
+deepl
+elevenlabs
+pandas
+librosa
